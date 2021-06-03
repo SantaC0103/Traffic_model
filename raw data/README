@@ -1,0 +1,9 @@
+
+This folder holds the raw data for all the images provided in the TFM. 
+The data is saved in .csv format now, feel free to opene it in a table file such as excel.
+
+_____________________________________________________________________________________
+
+Please check the "plot" folder in this repository if you would like to see the images.
+
+Note: The data for both "phase2_plot1.png" and "phase2_plot2.png" were generated from fitness.
