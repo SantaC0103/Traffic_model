@@ -8,6 +8,7 @@ We provide two experiments **main_phase_1_ver.py** and **main_phase_2_ver.py**, 
 >
 >3.4 Phase 2 - Verify The Efficiency of Traffic Flow 
 
+We have added new scenes **main_phase_1.2_ver.py** and **main_phase_2_ver.py** to give more humanity to the drivers in our model (the drivers are possibly distracted).
 
 ## 2.Raw data and Graphics
 All graphics and their corresponding raw data are available in the **plot** and **raw data** folders.
