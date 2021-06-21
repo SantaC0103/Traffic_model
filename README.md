@@ -11,7 +11,7 @@ We provide two experiments **main_phase_1_ver.py** and **main_phase_2_ver.py**, 
 We have added new scenes **main_phase_1.2_ver.py** and **main_phase_2.1_ver.py** to give more humanity to the drivers in our model (the drivers are possibly distracted).
 
 ## 2.Raw data and Graphics
-All graphics and their corresponding raw data are available in the **plot** and **raw data** folders.
+**raw data** folder save the raw data from all figures in the experiment. 
 
 
 
